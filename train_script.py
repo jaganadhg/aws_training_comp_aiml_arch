@@ -11,7 +11,8 @@ from sklearn.ensemble import GradientBoostingRegressor
 from numpy import load
 
 from sklearn import tree
-from sklearn.externals import joblib
+#import sklearn.external.joblib as extjoblib
+import joblib
 
 
 if __name__ == '__main__':
