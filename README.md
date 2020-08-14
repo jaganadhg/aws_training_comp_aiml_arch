@@ -1,4 +1,4 @@
-# Architecting for Machine Learning with AWS, August 12 and 13 Competion Submission
+# Architecting for Machine Learning with AWS, August 12 and 13 Competition  Submission
 
 - Rendered Notebook
 
